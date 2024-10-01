@@ -1,0 +1,8 @@
+{
+    "nombre": "Club Chelsea FC",
+    "estadio": "Stamford Bridge",
+    "direccion": "Calle 1 # 2- 3",
+    "ciudad": "Londres",
+    "uniforme": [{"color": "Azul", "precio":300},{"color":"blanco", "precio":256}],
+    "anioFundacion":"1905"
+}

@@ -1,3 +1,26 @@
 body{
-    background-color: black;
+    background-color: rgb(35, 77, 168);
+}
+h1{
+    color: white;
+}
+.centro{
+    text-align: center;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+button{
+    background-color: rgb(8, 133, 161);
+    border-radius: 8px;
+    color: rgb(19, 23, 128);
+    font-style: oblique;
+    font-size: 20px;
+    padding: 10px;
+}
+label{
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
